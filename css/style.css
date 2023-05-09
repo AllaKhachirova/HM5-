@@ -1,0 +1,60 @@
+.stylish {
+background-image: url(../img/newyork.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+    height: 442px;
+    width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.stylish-title {
+
+font-family: "Raleway" ;
+font-weight: 400;
+font-size: 24px;
+height: 28px;
+color: #FFFFFF;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+padding: 50px;
+
+
+
+
+}
+
+.stylish-subtitle{
+
+font-family: "Raleway" ;
+font-weight: 400;
+font-size: 14px;
+height: 16px;
+color: #FFFFFF;
+margin-bottom: 70px;
+
+
+
+}
+
+.stylish-btn {
+font-family: "Open Sans" ;
+font-weight: 600;
+font-size: 18px;
+color: #FFFFFF;
+width:30% ;
+height: 40px ;
+border-top: 5px ;
+    border-bottom: 5px ;
+
+
+
+}
+   
+
+
+
+
